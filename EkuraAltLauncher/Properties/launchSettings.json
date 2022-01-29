@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EkuraAltLauncher": {
+      "commandName": "Project",
+      "commandLineArgs": "800 600"
+    }
+  }
+}
